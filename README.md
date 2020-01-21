@@ -20,6 +20,10 @@ You can leave the version empty and it will default to the latest version which 
 
 The code of conduct in this repository was generated with covenant generator.
 
+## Prior Art
+
+This project is highly inspired by the kind efforts of simonv3's [covenant-generator](https://github.com/simonv3/covenant-generator), @bitandbang's [tweet](https://twitter.com/bitandbang/status/1082331715471925250), and swyx's [blogpost](https://www.swyx.io/writing/oss-repo-setup/).
+
 ## License
 
 [MIT](LICENSE)
